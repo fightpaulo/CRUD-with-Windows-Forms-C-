@@ -1,0 +1,14 @@
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.Properties.Resources.resources
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\bin\Debug\ExportingDataExcel.exe.config
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\bin\Debug\ExportingDataExcel.exe
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\bin\Debug\ExportingDataExcel.pdb
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.exe
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.pdb
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\bin\Debug\Dapper.dll
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\bin\Debug\Dapper.xml
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.csproj.CopyComplete
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.Views.AlterarUsuarios.resources
+C:\Users\paulo\source\repos\ExportingDataExcel\ExportingDataExcel\obj\Debug\ExportingDataExcel.Views.CadastrarUsuarios.resources
